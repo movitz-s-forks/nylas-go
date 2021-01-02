@@ -1,4 +1,4 @@
-module github.com/teamwork/nylas-go
+module github.com/movitz-s-forks/nylas-go
 
 go 1.13
 
